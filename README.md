@@ -1,5 +1,5 @@
 # artifareg 🦕🗄️
-artifareg :  Artifact Registry # Package Manager
+artifareg :  Artifact Registry # Package Manager # Repository
 
 
 ## Objective
